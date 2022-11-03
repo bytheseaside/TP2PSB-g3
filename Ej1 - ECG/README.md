@@ -10,7 +10,7 @@
 <hr/>
 
 ## Main Window
-Se decidio 
+Se decidio ... <p style='color: red'> COMPLETAR</p> 
 
 
 ## Conectar
